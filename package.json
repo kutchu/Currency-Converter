@@ -1,0 +1,53 @@
+{
+  "name": "currency-converter",
+  "version": "0.0.1",
+  "description": "Web Application for Currency Conversion",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kutchu/CurrencyConverterApp.git"
+  },
+  "author": "Kuldeep R Srivastava",
+  "bugs": {
+    "url": "https://github.com/kutchu/CurrencyConverterApp/issues"
+  },
+  "homepage": "https://github.com/kutchu/CurrencyConverterApp#readme",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-env": "^1.6.0",
+    "css-loader": "^0.27.3",
+    "extract-text-webpack-plugin": "^2.1.0",
+    "file-loader": "^0.10.1",
+    "image-webpack-loader": "^3.2.0",
+    "less": "^2.7.2",
+    "less-loader": "^4.0.1",
+    "style-loader": "^0.15.0",
+    "url-loader": "^0.5.8",
+    "webpack": "^2.7.0"
+  },
+  "dependencies": {
+    "@cycle/dom": "^16.0.0",
+    "@cycle/fetch": "^4.0.0",
+    "@cycle/http": "^14.9.0",
+    "@cycle/run": "^4.1.0",
+    "@cycle/storage": "^4.0.0",
+    "anchorme": "^1.1.2",
+    "cookie_js": "^1.2.2",
+    "cyclejs-cookie": "^0.7.4",
+    "moment": "^2.18.1",
+    "optional-js": "^1.2.1",
+    "rx": "^4.0.6",
+    "semantic-ui-api": "^2.2.10",
+    "semantic-ui-dimmer": "^2.2.10",
+    "semantic-ui-dropdown": "^2.2.10",
+    "semantic-ui-message": "^2.2.10",
+    "semantic-ui-modal": "^2.2.10",
+    "semantic-ui-tab": "^2.2.10",
+    "semantic-ui-transition": "^2.2.10",
+    "xstream": "^10.3.0"
+  }
+}

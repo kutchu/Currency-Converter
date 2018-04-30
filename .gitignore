@@ -1,0 +1,16 @@
+build
+logs
+.idea/
+.gradle/
+*.iml
+#src/main/config/local
+#/context.xml
+#/config/
+#/newrelic.jar
+#/newrelic.yml
+node_modules/
+out/
+
+# Ignore the app directory because it will be auto generated
+src/main/resources/static/app/
+application-development.yml
