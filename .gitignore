@@ -2,6 +2,9 @@ build
 logs
 .idea/
 .gradle/
+gradle/
+gradlew
+gradlew.bat
 *.iml
 #src/main/config/local
 #/context.xml
